@@ -1,0 +1,25 @@
+tbody td:first-child{
+	font-style: italic;
+}
+
+tbody tr:nth-of-type(odd){
+	background-color: #74A8A7;
+}
+
+tbody tr:nth-of-type(even){
+	background-color: #ADD8E6;
+}
+
+.outer-content{
+	margin-top: 20px;
+	width: 75%;
+	background-color: pink;
+	padding: 20px;
+}
+
+.inner-content{
+	margin: 0 auto;
+	width: 75%;
+	background-color: #ADD8E6;
+	text-align: center;
+}
