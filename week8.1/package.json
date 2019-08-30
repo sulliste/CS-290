@@ -1,0 +1,17 @@
+{
+  "name": "DB_UI-ex_tracker",
+  "version": "1.0.0",
+  "description": "DB and UI exercise tracker",
+  "main": "exercise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Sullivan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "express-session": "^1.11.3",
+    "mysql": "^2.8.0"
+  }
+}
